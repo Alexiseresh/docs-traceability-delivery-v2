@@ -2,7 +2,7 @@
 
 **Proyecto: Sistema para el Registro y Trazabilidad de Recepción de Mercancía** **Módulo III - Diplomado de Diseño Web**
 
-Este repositorio contiene la documentación técnica, los diagramas de base de datos y los scripts de inicialización (SQL) del sistema de gestión de mercancía. El enfoque principal de esta entrega es demostrar la integridad referencial y la trazabilidad de operaciones mediante el uso de Supabase como backend.
+Este repositorio contiene la documentación técnica y los diagramas de base de datos del sistema de gestión de mercancía. El enfoque principal de esta entrega es demostrar la integridad referencial y la trazabilidad de operaciones mediante el uso de Supabase como backend.
 
 <img width="1366" height="767" alt="home" src="https://github.com/user-attachments/assets/229c8eaf-816f-4627-8cac-f48a974315fc" />
 
